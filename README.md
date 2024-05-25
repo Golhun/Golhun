@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 
 ## 📝 About Me
-I'm a [Software engineer] based in [Accra, Ghana]. I love working on [solving relevant problems] and exploring new technologies.
+I'm a Software engineer based in Accra, Ghana. I love working on solving relevant problems and exploring new technologies.
 
 ---
 
