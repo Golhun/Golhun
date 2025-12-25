@@ -1,26 +1,38 @@
-# Gerald 👋 
-**Software Engineer | Accra, Ghana**
+# Gerald Golhun
 
-I build scalable solutions and focus on writing clean, maintainable code. Currently exploring distributed systems and performance optimization.
+Software engineer in Accra, Ghana, building practical web apps and data tools.
+I work mostly with PHP, Python, JavaScript, and R, and I enjoy turning messy real world workflows into clean systems.
 
----
+## Featured work
+- **Calc Pro**, a PHP + MySQL calculator app with multiple calculation domains and a small licensing practice module  
+  Repo: https://github.com/Golhun/calcpro_calculator
+- **MBP DrugRx**, a PHP and JavaScript web app (drug and workflow oriented tooling)  
+  Repo: https://github.com/Golhun/mbp_drugrx
+- **MBP Health**, a Python based health web app project  
+  Repo: https://github.com/Golhun/mbp-health
 
-### 🛠️ Tech Stack
-* **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
-* **Tools & DevOps:** Git, Docker, VS Code, GitHub Actions
-
-### 🚀 Featured Work & Focus
-* 🔭 I’m currently working on improving my expertise in backend architecture.
-* 🌱 I’m learning more about cloud-native development.
-* 📫 How to reach me: [Your Email/LinkedIn Link]
-
----
-
-### 📊 Performance Metrics
-![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golhun&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golhun&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff)
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Golhun&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Golhun" />
+## Tech I use
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,r,html,css,git,github,vscode&perline=9" />
 </p>
+
+**Data and scientific tooling:** NumPy, Anaconda, RStudio
+
+## What I’m focused on
+- Building small, reliable systems for health and productivity
+- Better application structure, testing habits, and maintainable code
+- Clean UI, simple UX, and performance that feels fast
+
+## GitHub at a glance
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Golhun&show_icons=true&hide_title=true&hide_rank=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golhun&layout=compact&hide_border=true" />
+</p>
+
+## Contact
+- GitHub: https://github.com/Golhun
+- Email: geraldduah1@gmail.com
+- LinkedIn: www.linkedin.com/in/gerald-duah-adu-broni-172570205
+
+---
+If you find something useful here, feel free to open an issue or start a discussion.
