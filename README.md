@@ -1,4 +1,4 @@
-# Gerald Golhun
+# Gerald 🤝
 
 Software engineer in Accra, Ghana, building practical web apps and data tools.
 I work mostly with PHP, Python, JavaScript, and R, and I enjoy turning messy real world workflows into clean systems.
@@ -24,10 +24,10 @@ I work mostly with PHP, Python, JavaScript, and R, and I enjoy turning messy rea
 - Clean UI, simple UX, and performance that feels fast
 
 ## GitHub at a glance
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Golhun&show_icons=true&hide_title=true&hide_rank=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golhun&layout=compact&hide_border=true" />
-</p>
+## GitHub at a glance
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golhun&show_icons=true&hide_title=true&hide_border=true&theme=transparent&cache_seconds=21600)](https://github.com/Golhun)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Golhun&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600)](https://github.com/Golhun?tab=repositories)
+
 
 ## Contact
 - GitHub: https://github.com/Golhun
